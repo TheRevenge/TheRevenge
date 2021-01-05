@@ -7,7 +7,9 @@ Well, I'm technically not a developer since I didn't make the studies. (yet 👶
 *BUT* I love to create random apps/games/snippets for random purposes... yes I'm not a good example at all.
 
 #### **My last projects**
-- **TornadeBOT** ![nodejs](https://raw.githubusercontent.com/TheRevenge/TheRevenge/main/nodejs.png =15x15) <img src="https://raw.githubusercontent.com/TheRevenge/TheRevenge/main/discordjs.png" style="height:15px;width:15px;"/>
+![](https://raw.githubusercontent.com/TheRevenge/TheRevenge/main/nodejs.png =250x250)
+![](https://raw.githubusercontent.com/TheRevenge/TheRevenge/main/discordjs.png =250x250)
+- **TornadeBOT** 
 A small discord bot, fully written with NodeJS
 Has some commands, pretty cool but not optimized 😪
 
